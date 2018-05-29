@@ -1,7 +1,7 @@
 {
   "name": "vue-multiple-page",
   "description": "A Vue.js project",
-  "author": "Edward <838298008@qq.com>",
+  "author": "<theshy.cs@qq.com>",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot --progress",
